@@ -1,1 +1,2 @@
 # ExecutiveReport_Excel
+Informe en formato .xlsx sobre los datos de la pizzería en el año 2016, incluyéndose gráficas para permitir visualizar la información de manera clara. Por cada hoja del archivo se incluyen respectivamente los reportes ejecutivo, de ingredientes y de pedidos. En cada uno de ellos se representa la información más relevante, ajustándose el tipo de gráfica al objetivo de la representación.
